@@ -43,6 +43,10 @@ body{
       border-radius: 10px;
       background-color: #DDF9C1;
   }
+
+img{
+   max-width:100%; 
+}
   
   /* Creation des classes */
    .container{
